@@ -1,5 +1,5 @@
 def count_strings(array)
-if array[index] .is_a? String
+  array.count do strings
   total += 1
 end
 end
