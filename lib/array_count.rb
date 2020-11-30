@@ -7,7 +7,9 @@ total= 0
 end
 end
 end
-require pry
+
+ 
+
 def count_empty_strings(array)
  total= 0
  array.count do |i|
