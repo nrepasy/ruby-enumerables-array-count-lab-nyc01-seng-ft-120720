@@ -1,6 +1,5 @@
 def count_strings(array)
-if array[index] is string
-  total += 1
+
  
 end
 
