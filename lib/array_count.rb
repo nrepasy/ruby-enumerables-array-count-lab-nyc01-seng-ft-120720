@@ -8,7 +8,3 @@ end
 end
 
 
-def count_empty_strings(array)
- 
-
-end
