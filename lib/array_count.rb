@@ -1,5 +1,5 @@
 def count_strings(array)
-  array.count(str)
+  array.count(string)
 end
 def count_empty_strings(array)
  array.count do |str|
