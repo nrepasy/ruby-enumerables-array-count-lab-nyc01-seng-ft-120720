@@ -14,8 +14,8 @@ def count_empty_strings(array)
    
    if i.is_a? String
     if String = ""?
-     total=+1
-end
+     total= +1
+
 end
 end
 end
