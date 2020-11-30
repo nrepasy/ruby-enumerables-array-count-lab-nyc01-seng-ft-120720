@@ -1,5 +1,6 @@
 def count_strings(array)
-if array[index] .is
+if array[index] .is_a?string
+  total += 1
 end
 
 def count_empty_strings(array)
