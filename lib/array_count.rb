@@ -6,5 +6,9 @@ total= 0
      total=+1
 end
 end
-end
+
+
+def count_empty_strings(array)
+ 
+
 end
