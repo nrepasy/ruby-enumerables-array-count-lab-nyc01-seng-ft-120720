@@ -13,10 +13,8 @@ end
 def count_empty_strings(array)
  total= 0
  array.count do |i|
- binding.pry
-   if i.is_a? String && String.empty?
  
-       
+   if i.is_a? String 
     total = +1
 
 
