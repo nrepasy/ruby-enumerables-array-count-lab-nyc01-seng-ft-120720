@@ -4,7 +4,7 @@ count = 0
    i == String
    count += 1
 end
-
+end
 
 
 def count_empty_strings(array)
