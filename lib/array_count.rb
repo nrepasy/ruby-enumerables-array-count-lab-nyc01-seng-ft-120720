@@ -1,7 +1,8 @@
 def count_strings(array)
 count = 0
  array.count do |i|
-   i.is_a?
+   i.kind_of? String
+   count += 1
 end
 end
 
