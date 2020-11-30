@@ -1,7 +1,8 @@
 def count_strings(array)
 
  array.count do |element|
-
+   element.instance_of? String
+   count += 1
 end
 end
 
