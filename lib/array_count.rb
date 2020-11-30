@@ -17,4 +17,3 @@ def count_empty_strings(array)
      total=+1
 end
 end
-end
