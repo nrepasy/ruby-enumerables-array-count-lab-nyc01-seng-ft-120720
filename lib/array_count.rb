@@ -12,7 +12,7 @@ def count_empty_strings(array)
  total= 0
  array.count do |i|
  
-   if i.is_a? |String| && i.empty?
+   if i.is_a? |String| and i.empty?
  
        
     total = +1
