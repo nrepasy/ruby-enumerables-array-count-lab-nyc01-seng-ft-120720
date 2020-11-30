@@ -1,7 +1,7 @@
 def count_strings(array)
 count = 0
  array.count do |element|
-   element.kind_of? String
+   element === String
    count += 1
 end
 end
