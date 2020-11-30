@@ -13,9 +13,8 @@ def count_empty_strings(array)
  array.count do |i|
    
    if i.is_a? String
-    if String = ""?
+    String.empty?
      total= +1
-
 end
 end
 end
